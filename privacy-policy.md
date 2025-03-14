@@ -30,7 +30,7 @@ Our game uses trusted third-party services for ads, analytics, and purchases. Th
 Third-party services include:
 
 Google Play Services (for purchases)
-Unity Ads / AdMob (for ads)
+Unity Ads (for ads)
 Unity Analytics
 We recommend reviewing their privacy policies for more details.
 
