@@ -1,8 +1,8 @@
 Privacy Policy
-Flapper the Bird
+Braver the Bird
 Effective Date: 12.3.2025
 
-Thank you for playing Flapper the Bird! Your privacy is important to us, and this Privacy Policy explains how we collect, use, and protect your information.
+Thank you for playing Braver the Bird! Your privacy is important to us, and this Privacy Policy explains how we collect, use, and protect your information.
 
 1. Information We Collect
 We do not collect personal information directly. However, some third-party services integrated into our game may collect limited data automatically for functionality, ads, and purchases.
